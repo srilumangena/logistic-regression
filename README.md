@@ -1,0 +1,1 @@
+# logistic-regression on HR data. I clean and process the data. Performed data analysis which factors are showing impact on employees to leave the company. I have trained and test data using logistic model. It performs best with 77%. 
